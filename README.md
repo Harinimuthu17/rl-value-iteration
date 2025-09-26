@@ -60,10 +60,10 @@ def value_iteration(P, gamma=0.99, theta=1e-10):
 ```
 
 ## OUTPUT:
+<img width="703" height="339" alt="image" src="https://github.com/user-attachments/assets/87afedcf-441e-4eaf-8c9d-a12b0b341c61" />
 
-![image](https://github.com/user-attachments/assets/ef2b328c-b20c-4a46-84c6-2ad6f5c20927)
 
-![image](https://github.com/user-attachments/assets/45239892-cd37-44aa-bcba-7e008bf001c3)
+
 
 
 
